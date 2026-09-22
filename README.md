@@ -16,16 +16,19 @@ A traffic analytics and congestion intelligence dashboard built using Python, Pa
 ## Dashboard Screenshots
 
 ### Executive Dashboard
-screenshots/executive_dashboard.png
+screenshots/Dashboard.png
 
 ### Deep Dive Analysis
-screenshots/deep_dive.png
+screenshots/Deep_dive_analysis.png
 
 ### Anomaly Detection
-screenshots/anomalies.png
+screenshots/Traffic_Anomaly.png
 
 ### Congestion Prediction
-screenshots/prediction.png
+screenshots/Congestion_Prediction.png
+
+### Data Explorer
+screenshots/Data_Explorer.png
 
 ## Tech Stack
 - Python
