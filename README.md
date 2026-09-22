@@ -1,47 +1,36 @@
-# Smart City Traffic Intelligence
+# 🚦 Smart City Traffic Intelligence
 
-## Live Demo
-https://your-streamlit-app-url.streamlit.app
+An end-to-end Traffic Analytics and Congestion Intelligence platform built using **Python, Pandas, Plotly, and Streamlit**. This project analyzes urban traffic patterns, identifies congestion hotspots, detects anomalies, and provides interactive visualizations for data-driven decision making.
 
-## Overview
-A traffic analytics and congestion intelligence dashboard built using Python, Pandas, Plotly, and Streamlit.
+---
 
-## Features
-- Executive Dashboard
-- Traffic Deep Dive Analysis
-- Anomaly Detection
-- Congestion Prediction
-- Data Explorer
+## 🌐 Live Demo
 
-## Dashboard Screenshots
+🔗 **Launch Application**
 
-## Executive Dashboard
+https://smartcitytrafficintelligence-cbypjcwsd634apppz6gfcx3.streamlit.app
 
-screenshots/Dashboard.png
+---
 
-## Deep Dive Analysis
+## 📌 Project Overview
 
-screenshots/Deep_dive_analysis.png
+Managing urban traffic efficiently is a critical challenge for modern smart cities. This project provides an interactive analytics dashboard that helps stakeholders:
 
-## Anomaly Detection
+- Monitor traffic conditions
+- Analyze congestion patterns
+- Identify anomalies
+- Explore traffic trends
+- Predict congestion levels
+- Make informed transportation decisions
 
-screenshots/Traffic_Anomaly_analysis.png
+The application delivers insights through an intuitive web-based dashboard powered by Streamlit.
 
-## Congestion Prediction
+---
 
-screenshots/Congestion_Prediction.png
+## ✨ Key Features
 
-## Data Explorer
-
-screenshots/Data_Explorer.png
-
-## Tech Stack
-- Python
-- Pandas
-- Plotly
-- Streamlit
-- Git
-- GitHub
-
-## Author
-Bendi Poorna Chandra Vamsikrishna
+### 📊 Executive Dashboard
+- Traffic KPIs and summary metrics
+- Traffic volume monitoring
+- Average speed insights
+- High congestion 
