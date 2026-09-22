@@ -1,0 +1,6 @@
+smart_city_traffic_dashboard/
+├── app.py
+├── requirements.txt
+├── README.md
+└── data/
+    └── smart_city_traffic_cleaned.csv
