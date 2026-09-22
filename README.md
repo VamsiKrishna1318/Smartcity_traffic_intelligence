@@ -195,6 +195,38 @@ to better understand and optimize traffic movement across city road networks.
 
 ---
 
+# 📸 Dashboard Screenshots
+
+### 📊 Executive Dashboard
+
+![Executive Dashboard](screenshots/Dashboard.png)
+
+---
+
+### 🔍 Deep Dive Analysis
+
+![Deep Dive Analysis](screenshots/Deep_dive_analysis.png)
+
+---
+
+### ⚠️ Anomaly Detection
+
+![Traffic Anomaly Analysis](screenshots/Traffic_Anomaly_analysis.png)
+
+---
+
+### 🚗 Congestion Prediction
+
+![Congestion Prediction](screenshots/Congestion_Prediction.png)
+
+---
+
+### 📂 Data Explorer
+
+![Data Explorer](screenshots/Data_Explorer.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Bendi Poorna Chandra Vamsikrishna**
